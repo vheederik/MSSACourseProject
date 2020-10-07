@@ -1,0 +1,23 @@
+Vanessa Heederik
+JBSA Cohort 6
+Project Step 2
+#User Need Statement
+
+This is a project for the MSSA program that accomplishes the following goals:
+
+- Create an application that allows users to view different categories of essential oils.
+- Pull data from database on oil ingredients and uses.
+
+In the course of this project I will use ASP.NET and C# to build a program that will categorize
+types of essential oils, specifically Young Living's essential oils. It will allow users to organize
+the oils by single-ingredient oils and oil blends. It will also allow users to pull data from database
+to display specific oil ingredients and uses for each oil. Oils will be listed in alphabetical order to 
+allow for users to easily locate the oil they are searching for. Users will be able to search by name order
+use a drop-down list to find the oil they are looking for.
+
+The features of this project will include:
+
+- Categorizes essential oils by 'Blends' and 'Single' oils.
+- Pulls data from database to display ingredients and uses.
+- Sorts data by alphabetical order.
+- Provides users with 'search' option and 'drop-down' list option.
